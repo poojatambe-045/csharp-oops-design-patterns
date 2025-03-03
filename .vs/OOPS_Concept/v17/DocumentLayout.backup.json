@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\MyFolder\\Practice-Notes\\Practice\\C#\\GitHub Projects\\OOPS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6A2E9F-42C6-4F2D-90BD-6624B194890D}|OOPS_Concept\\OOPS_Concept.csproj|e:\\myfolder\\practice-notes\\practice\\c#\\github projects\\oops\\oops_concept\\design patterns\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E6A2E9F-42C6-4F2D-90BD-6624B194890D}|OOPS_Concept\\OOPS_Concept.csproj|solutionrelative:oops_concept\\design patterns\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6A2E9F-42C6-4F2D-90BD-6624B194890D}|OOPS_Concept\\OOPS_Concept.csproj|e:\\myfolder\\practice-notes\\practice\\c#\\github projects\\oops\\oops_concept\\design patterns\\factory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E6A2E9F-42C6-4F2D-90BD-6624B194890D}|OOPS_Concept\\OOPS_Concept.csproj|solutionrelative:oops_concept\\design patterns\\factory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6A2E9F-42C6-4F2D-90BD-6624B194890D}|OOPS_Concept\\OOPS_Concept.csproj|e:\\myfolder\\practice-notes\\practice\\c#\\github projects\\oops\\oops_concept\\oops_concept.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{7E6A2E9F-42C6-4F2D-90BD-6624B194890D}|OOPS_Concept\\OOPS_Concept.csproj|solutionrelative:oops_concept\\oops_concept.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6A2E9F-42C6-4F2D-90BD-6624B194890D}|OOPS_Concept\\OOPS_Concept.csproj|e:\\myfolder\\practice-notes\\practice\\c#\\github projects\\oops\\oops_concept\\solid principles\\srp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E6A2E9F-42C6-4F2D-90BD-6624B194890D}|OOPS_Concept\\OOPS_Concept.csproj|solutionrelative:oops_concept\\solid principles\\srp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6A2E9F-42C6-4F2D-90BD-6624B194890D}|OOPS_Concept\\OOPS_Concept.csproj|e:\\myfolder\\practice-notes\\practice\\c#\\github projects\\oops\\oops_concept\\dry principle\\drydemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E6A2E9F-42C6-4F2D-90BD-6624B194890D}|OOPS_Concept\\OOPS_Concept.csproj|solutionrelative:oops_concept\\dry principle\\drydemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6A2E9F-42C6-4F2D-90BD-6624B194890D}|OOPS_Concept\\OOPS_Concept.csproj|e:\\myfolder\\practice-notes\\practice\\c#\\github projects\\oops\\oops_concept\\solid principles\\lsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E6A2E9F-42C6-4F2D-90BD-6624B194890D}|OOPS_Concept\\OOPS_Concept.csproj|solutionrelative:oops_concept\\solid principles\\lsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6A2E9F-42C6-4F2D-90BD-6624B194890D}|OOPS_Concept\\OOPS_Concept.csproj|e:\\myfolder\\practice-notes\\practice\\c#\\github projects\\oops\\oops_concept\\solid principles\\dip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E6A2E9F-42C6-4F2D-90BD-6624B194890D}|OOPS_Concept\\OOPS_Concept.csproj|solutionrelative:oops_concept\\solid principles\\dip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6A2E9F-42C6-4F2D-90BD-6624B194890D}|OOPS_Concept\\OOPS_Concept.csproj|e:\\myfolder\\practice-notes\\practice\\c#\\github projects\\oops\\oops_concept\\solid principles\\isp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E6A2E9F-42C6-4F2D-90BD-6624B194890D}|OOPS_Concept\\OOPS_Concept.csproj|solutionrelative:oops_concept\\solid principles\\isp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6A2E9F-42C6-4F2D-90BD-6624B194890D}|OOPS_Concept\\OOPS_Concept.csproj|e:\\myfolder\\practice-notes\\practice\\c#\\github projects\\oops\\oops_concept\\solid principles\\ocp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E6A2E9F-42C6-4F2D-90BD-6624B194890D}|OOPS_Concept\\OOPS_Concept.csproj|solutionrelative:oops_concept\\solid principles\\ocp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6A2E9F-42C6-4F2D-90BD-6624B194890D}|OOPS_Concept\\OOPS_Concept.csproj|e:\\myfolder\\practice-notes\\practice\\c#\\github projects\\oops\\oops_concept\\oops\\abstractclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E6A2E9F-42C6-4F2D-90BD-6624B194890D}|OOPS_Concept\\OOPS_Concept.csproj|solutionrelative:oops_concept\\oops\\abstractclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OCP.cs",
+              "DocumentMoniker": "E:\\MyFolder\\Practice-Notes\\Practice\\C#\\GitHub Projects\\OOPS\\OOPS_Concept\\SOLID Principles\\OCP.cs",
+              "RelativeDocumentMoniker": "OOPS_Concept\\SOLID Principles\\OCP.cs",
+              "ToolTip": "E:\\MyFolder\\Practice-Notes\\Practice\\C#\\GitHub Projects\\OOPS\\OOPS_Concept\\SOLID Principles\\OCP.cs",
+              "RelativeToolTip": "OOPS_Concept\\SOLID Principles\\OCP.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAswC0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T08:12:27.599Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Factory.cs",
+              "DocumentMoniker": "E:\\MyFolder\\Practice-Notes\\Practice\\C#\\GitHub Projects\\OOPS\\OOPS_Concept\\Design Patterns\\Factory.cs",
+              "RelativeDocumentMoniker": "OOPS_Concept\\Design Patterns\\Factory.cs",
+              "ToolTip": "E:\\MyFolder\\Practice-Notes\\Practice\\C#\\GitHub Projects\\OOPS\\OOPS_Concept\\Design Patterns\\Factory.cs",
+              "RelativeToolTip": "OOPS_Concept\\Design Patterns\\Factory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T11:09:51.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Singleton.cs",
+              "DocumentMoniker": "E:\\MyFolder\\Practice-Notes\\Practice\\C#\\GitHub Projects\\OOPS\\OOPS_Concept\\Design Patterns\\Singleton.cs",
+              "RelativeDocumentMoniker": "OOPS_Concept\\Design Patterns\\Singleton.cs",
+              "ToolTip": "E:\\MyFolder\\Practice-Notes\\Practice\\C#\\GitHub Projects\\OOPS\\OOPS_Concept\\Design Patterns\\Singleton.cs",
+              "RelativeToolTip": "OOPS_Concept\\Design Patterns\\Singleton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T10:59:50.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DryDemo.cs",
+              "DocumentMoniker": "E:\\MyFolder\\Practice-Notes\\Practice\\C#\\GitHub Projects\\OOPS\\OOPS_Concept\\DRY Principle\\DryDemo.cs",
+              "RelativeDocumentMoniker": "OOPS_Concept\\DRY Principle\\DryDemo.cs",
+              "ToolTip": "E:\\MyFolder\\Practice-Notes\\Practice\\C#\\GitHub Projects\\OOPS\\OOPS_Concept\\DRY Principle\\DryDemo.cs",
+              "RelativeToolTip": "OOPS_Concept\\DRY Principle\\DryDemo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T10:24:08.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DIP.cs",
+              "DocumentMoniker": "E:\\MyFolder\\Practice-Notes\\Practice\\C#\\GitHub Projects\\OOPS\\OOPS_Concept\\SOLID Principles\\DIP.cs",
+              "RelativeDocumentMoniker": "OOPS_Concept\\SOLID Principles\\DIP.cs",
+              "ToolTip": "E:\\MyFolder\\Practice-Notes\\Practice\\C#\\GitHub Projects\\OOPS\\OOPS_Concept\\SOLID Principles\\DIP.cs",
+              "RelativeToolTip": "OOPS_Concept\\SOLID Principles\\DIP.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAiwDQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T08:13:09.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SRP.cs",
+              "DocumentMoniker": "E:\\MyFolder\\Practice-Notes\\Practice\\C#\\GitHub Projects\\OOPS\\OOPS_Concept\\SOLID Principles\\SRP.cs",
+              "RelativeDocumentMoniker": "OOPS_Concept\\SOLID Principles\\SRP.cs",
+              "ToolTip": "E:\\MyFolder\\Practice-Notes\\Practice\\C#\\GitHub Projects\\OOPS\\OOPS_Concept\\SOLID Principles\\SRP.cs",
+              "RelativeToolTip": "OOPS_Concept\\SOLID Principles\\SRP.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAArwBgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T08:12:15.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OOPS_Concept",
+              "DocumentMoniker": "E:\\MyFolder\\Practice-Notes\\Practice\\C#\\GitHub Projects\\OOPS\\OOPS_Concept\\OOPS_Concept.csproj",
+              "RelativeDocumentMoniker": "OOPS_Concept\\OOPS_Concept.csproj",
+              "ToolTip": "E:\\MyFolder\\Practice-Notes\\Practice\\C#\\GitHub Projects\\OOPS\\OOPS_Concept\\OOPS_Concept.csproj",
+              "RelativeToolTip": "OOPS_Concept\\OOPS_Concept.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-03T09:54:28.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ISP.cs",
+              "DocumentMoniker": "E:\\MyFolder\\Practice-Notes\\Practice\\C#\\GitHub Projects\\OOPS\\OOPS_Concept\\SOLID Principles\\ISP.cs",
+              "RelativeDocumentMoniker": "OOPS_Concept\\SOLID Principles\\ISP.cs",
+              "ToolTip": "E:\\MyFolder\\Practice-Notes\\Practice\\C#\\GitHub Projects\\OOPS\\OOPS_Concept\\SOLID Principles\\ISP.cs",
+              "RelativeToolTip": "OOPS_Concept\\SOLID Principles\\ISP.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAUwEYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T08:12:51.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LSP.cs",
+              "DocumentMoniker": "E:\\MyFolder\\Practice-Notes\\Practice\\C#\\GitHub Projects\\OOPS\\OOPS_Concept\\SOLID Principles\\LSP.cs",
+              "RelativeDocumentMoniker": "OOPS_Concept\\SOLID Principles\\LSP.cs",
+              "ToolTip": "E:\\MyFolder\\Practice-Notes\\Practice\\C#\\GitHub Projects\\OOPS\\OOPS_Concept\\SOLID Principles\\LSP.cs",
+              "RelativeToolTip": "OOPS_Concept\\SOLID Principles\\LSP.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAC8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T08:12:42.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AbstractClass.cs",
+              "DocumentMoniker": "E:\\MyFolder\\Practice-Notes\\Practice\\C#\\GitHub Projects\\OOPS\\OOPS_Concept\\OOPS\\AbstractClass.cs",
+              "RelativeDocumentMoniker": "OOPS_Concept\\OOPS\\AbstractClass.cs",
+              "ToolTip": "E:\\MyFolder\\Practice-Notes\\Practice\\C#\\GitHub Projects\\OOPS\\OOPS_Concept\\OOPS\\AbstractClass.cs",
+              "RelativeToolTip": "OOPS_Concept\\OOPS\\AbstractClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T07:24:44.76Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
